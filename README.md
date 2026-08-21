@@ -1,8 +1,10 @@
 # SteamDeck-WebPage-App
 
-SteamDeckで、特定のページを全画面で開くためのツール
-Webサイトであれば基本的にどのサイトでも表示可能です。
+SteamDeckで、特定のページを全画面で開くためのツール<br>
+Webサイトであれば基本的にどのサイトでも表示可能です。<br>
 ゲームモードから、YouTube等をゲームソフトと同様に起動できるようになります。
+
+### [最新バージョンはこちら](https://github.com/suwanohiro/SteamDeck-WebPage-App/releases/latest)
 
 ## 利用方法
 
