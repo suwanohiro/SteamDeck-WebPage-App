@@ -1,4 +1,4 @@
-# [最新バージョンはこちら](https://github.com/suwanohiro/SteamDeck-WebPage-App/releases/latest)
+### [最新バージョンはこちら](https://github.com/suwanohiro/SteamDeck-WebPage-App/releases/latest)
 
 ---
 
